@@ -5,11 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/spaulding42](https://github.com/spaulding42)
 
+- Check out my github portfolio page! (https://spaulding42.github.io/)
+
 - 📫 How to reach me **spaulding42@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1PgNk07VLSSuZtbOAukg-qVvx4GI83F2ciyj56pWQ3EM/edit?usp=sharing](https://docs.google.com/document/d/1PgNk07VLSSuZtbOAukg-qVvx4GI83F2ciyj56pWQ3EM/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm a digital nomad that lives and travels in a self built van conversion!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

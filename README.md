@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devin Spaulding</h1>
 <h3 align="center">A passionate full stack developer from Utah</h3>
 
-- 🔭 I’m currently working on [Devio](https://github.com/spaulding42/Python_Assignments/tree/master/Python/Devio) [#Vanlife](https://github.com/spaulding42/C-Sharp/tree/main/Vanlife)
+- 🔭 I’m currently working as a full stack developer at Safe Home Security. Most of my time is spent in the backend but i still know my way around front end development as well. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/spaulding42](https://github.com/spaulding42)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **spaulding42@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PgNk07VLSSuZtbOAukg-qVvx4GI83F2ciyj56pWQ3EM/edit?usp=sharing](https://docs.google.com/document/d/1PgNk07VLSSuZtbOAukg-qVvx4GI83F2ciyj56pWQ3EM/edit?usp=sharing)
+- 📄 Know about my [Resume]([https://docs.google.com/document/d/1PgNk07VLSSuZtbOAukg-qVvx4GI83F2ciyj56pWQ3EM/edit?usp=sharing](https://docs.google.com/document/d/1bw80iqvDdOzMp-NSgyZjIh8ZdA4wnO6g4yLVZUauyIs/edit?usp=sharing)
 
 
 
